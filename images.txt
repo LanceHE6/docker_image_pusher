@@ -5,4 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #containrrr/watchtower:latest
-firezmc/dosgame-web-docker:v3.9.6
+#firezmc/dosgame-web-docker:v3.9.6
+jayfong/yapi:latest
+mongo:latest
