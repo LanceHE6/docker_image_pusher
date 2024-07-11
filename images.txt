@@ -8,4 +8,5 @@
 #firezmc/dosgame-web-docker:v3.9.6
 jayfong/yapi:latest
 #mongo:latest
-mongo:4.0
+#mongo:4.0
+mysql:8.0
