@@ -12,5 +12,5 @@ jayfong/yapi:latest
 #mysql:8.0
 #node:latest
 #deluan/navidrome:latest
-ollama/ollama
-
+#ollama/ollama
+rockchin/langbot:latest
