@@ -11,5 +11,6 @@ jayfong/yapi:latest
 #mongo:4.0
 #mysql:8.0
 #node:latest
-deluan/navidrome:latest
+#deluan/navidrome:latest
+ollama/ollama
 
